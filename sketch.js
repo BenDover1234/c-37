@@ -3,7 +3,7 @@ var canvas, backgroundImage;
 var gameState = 0;
 var contestantCount;
 var allContestants;
-var answer;
+var answer, quiz;
 var database;
 
 var question, contestant, quiz;
